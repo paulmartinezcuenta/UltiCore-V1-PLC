@@ -1,10 +1,10 @@
-# UltiCore V1 - ESP32-Based Industrial PLC 🎛️⚡
+# UltiCore V1 - ESP32-Based Industrial PLC 
 
 UltiCore V1 is a high-reliability, industrial-grade Programmable Logic Controller (PLC) custom-designed around the **ESP32-WROOM-32D** architecture. Engineered for harsh electrical environments, this board features high-density optical isolation, dedicated buffered data buses, and a robust power management system.
 
 ---
 
-## 🛠️ Advanced Hardware Architecture & Engineering
+##  Advanced Hardware Architecture & Engineering
 
 ### 1. Dual-Bus Data Architecture & Control Logic
 * **Buffered Bus Isolation:** Implements octal three-state buffers (**74HC541TS**) to split control signals into dedicated **Power Data Buses** and **Analog Data Buses**. This topology isolates the MCU pins, maximizes fan-out capability, and prevents EMI crosstalk from high-current switching sections.
@@ -25,7 +25,7 @@ UltiCore V1 is a high-reliability, industrial-grade Programmable Logic Controlle
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ├── Hardware/        # KiCad schematic captures, multi-layer layout files, and structural BOM
