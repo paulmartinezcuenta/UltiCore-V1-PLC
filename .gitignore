@@ -1,0 +1,5 @@
+*.kicad_prl
+*.lck
+.history/
+_restore_backup_*/
+fp-info-cache
